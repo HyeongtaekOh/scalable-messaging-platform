@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: producer-service
+
+  config:
+    import: optional:redis.yml
