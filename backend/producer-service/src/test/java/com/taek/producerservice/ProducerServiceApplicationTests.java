@@ -1,4 +1,4 @@
-package com.taek.demo;
+package com.taek.producerservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
